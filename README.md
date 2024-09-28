@@ -11,7 +11,8 @@ I'm a passionate developer who loves working on cool projects and learning new t
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Learning](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Excited Developer](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 
 
