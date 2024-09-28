@@ -17,12 +17,7 @@ I'm a passionate developer who loves working on cool projects and learning new t
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 ## 📫 Let's Connect!
-- [LinkedIn]((https://www.linkedin.com/in/jyoti-mishra-8a6917289)
-- [Instagram][(https://www.instagram.com/jyoti_mishra639/)]
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-mishra-8a6917289)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jyoti_mishra639/)
