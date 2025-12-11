@@ -7,7 +7,7 @@ I'm a passionate developer who loves working on cool projects and learning new t
 
 ## 🚀 Skills
 - Programming Languages: HTML, CSS, JavaScript, Python, C++, Dart
-- Frameworks: Node.js
+- Frameworks: Next.js
 - Tools: Git, VsCode, Figma
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript&logoColor=white)
