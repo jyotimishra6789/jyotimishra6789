@@ -2,7 +2,7 @@
 I'm a passionate developer who loves working on cool projects and learning new technologies.
 
 <div align="center">
-  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="Happy Developer GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV6aml5enZlZjNhZHFwODg0ZjlkeTcydDB5eWN1Z2EyNXQ0NTdsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif">
 </div>
 
 ## 🚀 Skills
